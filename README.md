@@ -1,4 +1,4 @@
-![Book Creator](URL_картинки)
+![Book Creator](https://github.com/ssshipilo/bookcreator/blob/main/assets/img.png)
 
 # Book Creator | Small but Useful Software
 
